@@ -8,3 +8,6 @@ npm start
 ## Screenshot
 <div text-align="center">
 <img src="./assets/Employee-Tracker.png" alt="screenshot">
+
+## Video Link
+  https://watch.screencastify.com/v/uSnNsV5NWqJIcdTAxuAQ
