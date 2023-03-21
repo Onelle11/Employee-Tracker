@@ -2,7 +2,8 @@
 This application manages a company's employee database using NodeJS, Inquirer, and MySQL.
 
 ## Overview
-```npm start
+```
+npm start
 ```
 ## Screenshot
 <div text-align="center">
